@@ -36,6 +36,12 @@ text > h2 {
   font-size: 2.0em;
 }
 
+text > h2 {
+  margin: auto;
+  text-align: center;
+  font-size: 1.5em;
+}
+
 img {
   background-repeat: no-repeat;
   max-width: 591.16px; 
