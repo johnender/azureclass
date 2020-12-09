@@ -16,6 +16,12 @@
 
 <p align="center"> Learn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub.
     <br> 
+</p> 
+
+<p align="center"> Url to the my try of website:
+  <br>
+  https://icy-moss-0cdff5d10.azurestaticapps.net/
+  <br>
 </p>
 
 ## 📝 Table of Contents
