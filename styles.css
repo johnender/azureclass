@@ -37,9 +37,7 @@ text > h2 {
 
 img {
   background-repeat: no-repeat;
-  height: auto; 
-  width: auto; 
   max-width: 591.16px; 
   max-height: 493.3px;
-  align-items: center;
+  align-self: center;
 }
