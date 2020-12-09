@@ -7,7 +7,7 @@ html, body {
   border: 0;
   padding: 0;
   background: rgb(11,6,98);
-  background: linear-gradient(45deg, rgba(11,6,98,1) 25%, rgba(6,44,94,1) 50%, rgba(15,137,162,1) 75%);
+  background: linear-gradient(90deg, rgba(11,6,98,1) 25%, rgba(6,44,94,1) 50%, rgba(15,137,162,1) 75%);
   background-size: auto auto; 
 }
 
@@ -37,7 +37,7 @@ text > h2 {
 
 img {
   background-repeat: no-repeat;
-  width: 100%;
+  width: 3547px;
   height: 2960px;
   align-items: center;
 }
