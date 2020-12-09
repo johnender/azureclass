@@ -38,7 +38,7 @@ text > h2 {
 div.img1 {
   background-image: url(/images/espalda.png);
   background-repeat: no-repeat;
-  width: 3547px;
-  height: 2960px;
+  width: 100%;
+  height: auto;
   align-items: center;
 }
