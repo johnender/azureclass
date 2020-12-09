@@ -8,7 +8,7 @@ html, body {
   padding: 0;
   background: rgb(11,6,98);
   background: linear-gradient(45deg, rgba(11,6,98,1) 25%, rgba(6,44,94,1) 50%, rgba(15,137,162,1) 75%);
-  background-size: 300px 100px; 
+  background-size: 2000px 1000px; 
 }
 
 main {
@@ -38,6 +38,7 @@ text > h2 {
 img {
   background-image: url(/images/espalda.png);
   background-repeat: no-repeat;
-  width: 600px;
-  height: 200px;
+  width: 1773.5px;
+  height: 1480px;
+  align-items: center;
 }
