@@ -34,11 +34,11 @@ text > h2 {
   text-align: left;
   font-size: 2.0em;
 }
-/*
-img {
+
+div.img1 {
   background-image: url(/images/espalda.png);
   background-repeat: no-repeat;
   width: 1773.5px;
   height: 1480px;
   align-items: center;
-}*/
+}
