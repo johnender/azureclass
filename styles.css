@@ -31,6 +31,7 @@ text {
 }
 
 text > h2 {
+  margin: 300px;
   text-align: left;
   font-size: 2.0em;
 }
@@ -39,6 +40,8 @@ img {
   background-repeat: no-repeat;
   max-width: 591.16px; 
   max-height: 493.3px;
+}
+
+img-container {
   text-align: center;
-  display: block;
 }
