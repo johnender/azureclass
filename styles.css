@@ -14,6 +14,7 @@ main {
   margin: auto;
   width: 50%;
   padding: 20px;
+  color: #afcfb1;
 }
 
 main > h1 {
@@ -22,10 +23,10 @@ main > h1 {
 }
 
 text {
-  margin: 10%;
+  margin: 25px 50px 75px;
   width: 50%;
   padding: 20px;
-  color: #ffffff;
+  color: #ecdfdf;
 }
 
 text > h2 {
