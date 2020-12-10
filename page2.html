@@ -12,7 +12,7 @@
     <main>
         <h1> fname + " " lname <span id="myText1"></span></h1>
         <script type="text/javascript">
-            document.write(name)
+            document.write(firstname)
           </script>
     </main>
 </body>
@@ -21,8 +21,8 @@
 </html>
 
 <script>
-    var name = document.getElementById('fname');
+    var firstname = document.getElementById('fname').textContent;
     var lastName = document.getElementById('lname');
-    document.getElementById("myText1").innerHTML = name;
+    document.getElementById("myText1").innerHTML = firstname;
     document.getElementById("myText2").innerHTML = lastName;
 </script>
