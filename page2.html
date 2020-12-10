@@ -10,8 +10,7 @@
 
 <body>
     <main>
-        <h1> fname + " " lname <span id="fname"></span></h1>
-        <span id="lname"></span>
+        <h1> fname + " " lname <span id="myText1"></span></h1>
     </main>
 </body>
 
@@ -21,4 +20,6 @@
 <script>
     var name = document.getElementById('fname');
     var lastName = document.getElementById('lname');
+    document.getElementById("myText1").innerHTML = name;
+    document.getElementById("myText2").innerHTML = lastName;
 </script>
